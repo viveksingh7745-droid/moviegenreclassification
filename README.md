@@ -1,4 +1,4 @@
-# Movie Genre Classification — CodTech Internship Project
+# Movie Genre Classification — CodTech Internship Project. Intership ID-CITS3857
 
 Classifies movies into 8 genres using **TF-IDF + Logistic Regression** on movie
 titles and plot overviews. No external dataset download required.
